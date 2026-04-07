@@ -6,7 +6,8 @@ requires-python = ">=3.11"
 dependencies = [
   "mpremote>=1.26",
   "ipykernel>=6.29",
-  "matplotlib>=3.9"
+  "matplotlib>=3.9",
+  "pandas>=3.0.2",
 ]
 
 [tool.uv]
