@@ -7,7 +7,11 @@ dependencies = [
   "mpremote>=1.26",
   "ipykernel>=6.29",
   "matplotlib>=3.9",
+<<<<<<< HEAD
   "streamlit>=1.56.0",
+=======
+  "pandas>=3.0.2",
+>>>>>>> master
 ]
 
 [tool.uv]
