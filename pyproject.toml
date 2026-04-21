@@ -6,7 +6,8 @@ requires-python = ">=3.11"
 dependencies = [
   "mpremote>=1.26",
   "ipykernel>=6.29",
-  "matplotlib>=3.9"
+  "matplotlib>=3.9",
+  "streamlit>=1.56.0",
 ]
 
 [tool.uv]
